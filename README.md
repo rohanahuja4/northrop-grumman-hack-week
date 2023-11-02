@@ -1,4 +1,4 @@
-# Find Companies Explore Possibilities
+# Find Companies, Explore Possibilities
 
 ## NG Hack Week - Team 6
 
